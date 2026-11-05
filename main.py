@@ -1,2 +1,5 @@
 print("--- mon assitant de revision ---")
 print("bienvenue dans le programme !")
+print("--- Mon assistant de revision ---")
+nom=input("Quel est votre prenom ? ")
+print(f"bonjour(nom) ! bon courage pour tes revision.")
